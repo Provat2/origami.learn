@@ -1,0 +1,22 @@
+body{
+    background-color: chartreuse;
+}
+h1{
+    color: black;
+    font-size: 70px;
+    font-family: fantasy;
+    text-decoration: underline;
+    text-align: center;
+}
+li{
+    color: red;
+    font-size: 25px;
+    font-family: monospace;
+}
+button{
+    background-color: green;
+    width: 30%;
+    height: 60px;
+    color: white;
+    font-size: 25px;
+}
